@@ -4,7 +4,9 @@ I'm a **Full Stack Developer** passionate about building high-performance web ap
 
 ### 🛠 Tech Stack  
 🚀 **Frontend:** React, Next.js, TypeScript, Zustand, TanStack, Tailwind
+
 🧪 **Testing:** Cypress, Jest  
+
 🔧 **Backend:** Node.js, Express, PostgreSQL  
 
 ### 💡 About Me  
